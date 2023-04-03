@@ -31,6 +31,9 @@
 #alert
 {
     display:none;
+    background-color:greenyellow;
+    width: auto;
+    height: auto;
 }
 
 
